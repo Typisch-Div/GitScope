@@ -4,7 +4,7 @@ A web application that analyzes public GitHub profiles and provides repository s
 
 ## Live Demo
 
-**Frontend:** https://your-vercel-url.vercel.app
+**Frontend:** [https://your-vercel-url.vercel.app](https://git-scope-jade.vercel.app/)
 
 ---
 
